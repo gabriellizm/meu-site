@@ -1,4 +1,17 @@
 header {
-    background-color: #383D58;
+    background-color: #3a4066;
     color: white;
     }
+    .artorias{
+        width: 20%;
+    
+        background-color: #383D58;
+        color: rgb(214, 112, 112);
+        display:flex;
+        background-image: linear-gradient();
+
+        }
+        body{
+            font-family:’Poppins’,sans-serif;
+            }
+            
